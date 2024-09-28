@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 i'm currently working on golang betting web application.<br>I have worked on numerous telegram bots with AI integrations as well.<br>Developed AI systems such as face recognition attendance for schools and universities.<br>Deployed point system for cafes and restaurants<br><br>🌱 Recently wrote my first kernel in C.<br>LeetCoder in C++;<br>https://leetcode.com/u/Step-One/<br><br>👯 Would like to collaborate in ML related projects.<br><br>⚡ Fun fact. I have learnt almost everything I know using YouTube lol<br>
+🔭 i'm currently working on golang betting web application.<br>I have worked on numerous telegram bots with AI integrations as well.<br>Developed AI systems such as face recognition attendance for schools and universities.<br>Deployed point system for cafes and restaurants<br><br>🌱 Recently wrote my first kernel in C.<br>LeetCoder in C++;<br>https://leetcode.com/u/Step-One/<br><br>👯 Would like to collaborate in ML related projects.https://t.me/StephenMarkman<br><br>⚡ Fun fact. I have learnt almost everything I know using YouTube lol<br>
 
 
 # 💻 Tech Stack:
