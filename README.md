@@ -71,17 +71,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
-
----------------------------
-
-# 💫 About Me:
-🔭 I'm currently working on golang betting web application.<br>I have worked on numerous telegram bots with AI integrations as well.<br>Developed AI systems such as face recognition attendance for schools and universities.<br>Deployed point system for cafes and restaurants<br><br>🌱 Recently wrote my first kernel in C.<br><br>🌟LeetCoder in C++;<br>https://leetcode.com/u/Step-One/<br><br>👯 Would like to collaborate in Web or ML related projects.<br>https://t.me/StephenMarkman<br><br>⚡ Fun fact. I have learnt almost everything I know using YouTube lol<br>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=StepOne-ai&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in   ) -->
