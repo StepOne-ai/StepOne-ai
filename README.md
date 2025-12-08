@@ -2,14 +2,14 @@
 
   <!-- Banner -->
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+    src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" 
     width="100%" 
     height="200"
     style="object-fit: cover"
     alt="Go Banner"
   />
 
-  <h1>👋 Привет, я <strong>Степан Кондратов</strong></h1>
+  <h1>👋 Привет, я <strong>Stephen</strong></h1>
   <h3>Fullstack/Go Engineer • VK Education Team Lead 2025 • Yandex Intern • BMSTU 2023</h3>
 
   <p>
