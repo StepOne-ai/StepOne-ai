@@ -22,9 +22,6 @@
     <a href="https://github.com/StepOne-ai">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
   </p>
 
   <img 
@@ -70,20 +67,3 @@
 ✅ **Чистота кода**: люблю рефакторинг, пишу тесты, ценю понятность выше «умности»  
 
 ---
-
-### 📬 **Let’s Connect**
-
-| <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="28"/> | [**Telegram**](https://t.me/StephenMarkman) — быстрая связь, коммерческие предложения |
-| <img src="https://cdn.simpleicons.org/github/181717" width="28"/> | [**GitHub**](https://github.com/StepOne-ai) — open-source, pet-проекты |
-| <img src="https://cdn.simpleicons.org/gmail/D14836" width="28"/> | `rebzinka@gmail.com` — резюме, офферы, длинные письма |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=StepOne-ai&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepOne-ai&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-</div>
