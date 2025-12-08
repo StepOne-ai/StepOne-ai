@@ -1,44 +1,29 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C5112AQFb4F3erOmUjg/article-cover_image-shrink_600_2000/0/1576917527046?e=2147483647&v=beta&t=IXWWEhkSU5vihN6ZprcTG4XMEmb9zJ5kWC6dA2qmtf4" alt="cover" />
+  <img width="100%" height="250px" src="https://media-exp1.licdn.com/dms/image/C5112AQFb4F3erOmUjg/article-cover_image-shrink_600_2000/0/1576917527046?e=2147483647&v=beta&t=IXWWEhkSU5vihN6ZprcTG4XMEmb9zJ5kWC6dA2qmtf4" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<div size='20px'> Hi! My name is Stephen. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<h1 align="center">Hello, I'm <strong>Stepan</strong> 👋</h1>
+<h3 align="center">Golang Backend Engineer | Fullstack Enthusiast | Problem Solver</h3>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<img width="55%" align="right" alt="Gopher Coding" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+### 🧠 About Me  
+- 🎓 Student at **Bauman Moscow State Technical University**, majoring in Informatics & Systems Engineering  
+- 💼 2+ years of professional experience building **scalable backend services** in Go  
+- 🔧 Passionate about **clean architecture**, system design, and writing maintainable, testable code  
+- 🏆 ICPC 2025 participant | Chess player | Tech + Business mindset  
+- 🌐 Fluent in English (IELTS C2), comfortable with technical docs and cross-team collaboration  
 
+### ⚙️ Tech Stack  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![React/Next.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
-- 🔭 I’m currently working on Github projects, blogs etc...
+### 📬 Let’s Connect  
+<a href="https://t.me/StephenMarkman"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/telegram.svg" width="32px"/></a>  
+<a href="mailto:rebzinka@gmail.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" width="32px"/></a>
 
-- 🌱 I’m currently learning Data Science, AWS, Data Engineering etc... 
-
-- 👯 I’m looking to collaborate on projects, tech articles... 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
-
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
-<a href= https://github.com/https://github.com/StepOne-ai?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.github.com/https://github.com/StepOne-ai'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<br>
+> ✨ *"I don’t just build systems — I build systems that scale, survive, and serve real users."*
