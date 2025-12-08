@@ -4,7 +4,7 @@
   <img 
     src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" 
     width="100%" 
-    height="200"
+    height="400"
     style="object-fit: cover"
     alt="Go Banner"
   />
