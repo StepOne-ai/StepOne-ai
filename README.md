@@ -1,29 +1,89 @@
 <div align="center">
-  <img width="100%" height="250px" src="https://media-exp1.licdn.com/dms/image/C5112AQFb4F3erOmUjg/article-cover_image-shrink_600_2000/0/1576917527046?e=2147483647&v=beta&t=IXWWEhkSU5vihN6ZprcTG4XMEmb9zJ5kWC6dA2qmtf4" alt="cover" />
+
+  <!-- Banner -->
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+    width="100%" 
+    height="200"
+    style="object-fit: cover"
+    alt="Go Banner"
+  />
+
+  <h1>👋 Привет, я <strong>Степан Кондратов</strong></h1>
+  <h3>Go Backend Engineer • ICPC 2025 • Fullstack Builder • Bauman MSU</h3>
+
+  <p>
+    <a href="https://t.me/StephenMarkman">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=2CA5E0" alt="Telegram"/>
+    </a>
+    <a href="mailto:rebzinka@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/StepOne-ai">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+
+  <img 
+    src="https://media.tenor.com/7XJwm9CzUqIAAAAC/gopher-coding.gif" 
+    width="280" 
+    alt="Gopher Coding"
+  />
+
 </div>
 
-<h1 align="center">Hello, I'm <strong>Stepan</strong> 👋</h1>
-<h3 align="center">Golang Backend Engineer | Fullstack Enthusiast | Problem Solver</h3>
+---
 
-<img width="55%" align="right" alt="Gopher Coding" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+### 🧠 **About Me**
 
-### 🧠 About Me  
-- 🎓 Student at **Bauman Moscow State Technical University**, majoring in Informatics & Systems Engineering  
-- 💼 2+ years of professional experience building **scalable backend services** in Go  
-- 🔧 Passionate about **clean architecture**, system design, and writing maintainable, testable code  
-- 🏆 ICPC 2025 participant | Chess player | Tech + Business mindset  
-- 🌐 Fluent in English (IELTS C2), comfortable with technical docs and cross-team collaboration  
+- 🎓 **Студент МГТУ им. Н.Э. Баумана** (ИУ6, Информатика и системы управления, окончание — 2026)  
+- 💼 **2+ года опыта**: Backend / Fullstack — от аналитических сервисов до клинических систем  
+- 🛠️ Архитектура, которую я пишу: **микросервисы** + **Clean Architecture** + **SOLID**  
+- 🏆 Участник **ICPC 2025**, любитель шахмат и мотокросса  
+- 🌍 **Английский C2 (IELTS)** — свободно в технической и деловой коммуникации  
+- 🎯 Цель: влиять на архитектуру, видеть impact продукта, работать в команде инженеров мышления  
 
-### ⚙️ Tech Stack  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![React/Next.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+> ✨ *«I don’t just code — I build systems users love and engineers respect.»*
 
-### 📬 Let’s Connect  
-<a href="https://t.me/StephenMarkman"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/telegram.svg" width="32px"/></a>  
-<a href="mailto:rebzinka@gmail.com"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" width="32px"/></a>
+---
 
-> ✨ *"I don’t just build systems — I build systems that scale, survive, and serve real users."*
+### 🛠️ **Tech Stack**
+
+<div align="center">
+
+| Backend | Databases | DevOps | Frontend | Tools |
+|---------|-----------|--------|----------|-------|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=white) ![Echo](https://img.shields.io/badge/Echo-2057A1?logo=go&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+### 🌟 **What Sets Me Apart**
+
+✅ **Бизнес-мышление**: понимаю метрики, ROI, funnel’ы — не только API  
+✅ **Системный подход**: проектирую не модуль, а систему — с учётом масштаба, observability, отказоустойчивости  
+✅ **Техлид в команде VK+Бауман**: руковожу dev-командой из 4 человек в образовательном проекте с продакшен-ориентацией  
+✅ **Чистота кода**: люблю рефакторинг, пишу тесты, ценю понятность выше «умности»  
+
+---
+
+### 📬 **Let’s Connect**
+
+| <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="28"/> | [**Telegram**](https://t.me/StephenMarkman) — быстрая связь, коммерческие предложения |
+| <img src="https://cdn.simpleicons.org/github/181717" width="28"/> | [**GitHub**](https://github.com/StepOne-ai) — open-source, pet-проекты |
+| <img src="https://cdn.simpleicons.org/gmail/D14836" width="28"/> | `rebzinka@gmail.com` — резюме, офферы, длинные письма |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=StepOne-ai&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepOne-ai&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+</div>
