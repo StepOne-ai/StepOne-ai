@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """Convert a photo into a self-typing ASCII-art SVG for the profile README."""
 import sys
-import cv2
 import numpy as np
 from PIL import Image
 
 RAMP = " .`:-=+*cs#%@"
-COLS = 90
+COLS = 140
 FONT_SIZE = 7
 CHAR_W = FONT_SIZE * 0.6
 LINE_H = FONT_SIZE * 1.15
@@ -15,12 +14,17 @@ LINE_H = FONT_SIZE * 1.15
 def to_ascii_rows(src_path: str) -> list[str]:
     img = Image.open(src_path).convert("L")
     w, h = img.size
+    # downsample on the full-res image first so hair/skin texture is properly
+    # averaged away, then shrink the rest of the way to the char grid
+    img = img.resize((w // 4, h // 4), Image.LANCZOS)
+    w, h = img.size
     rows = round(COLS * (h / w) * (CHAR_W / LINE_H))
-    small = np.array(img.resize((COLS, rows)))
+    small = np.array(img.resize((COLS, rows), Image.LANCZOS)).astype(np.float32)
 
-    small = cv2.equalizeHist(small)
+    lo, hi = np.percentile(small, [2, 98])
+    small = np.clip((small - lo) / max(hi - lo, 1) * 255, 0, 255)
 
-    idx = (small.astype(np.float32) / 255 * (len(RAMP) - 1)).round().astype(int)
+    idx = (small / 255 * (len(RAMP) - 1)).round().astype(int)
     return ["".join(RAMP[v] for v in row) for row in idx]
 
 
