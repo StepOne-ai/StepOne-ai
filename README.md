@@ -10,7 +10,7 @@
   />
 
   <h1>👋 Привет, я <strong>Stephen</strong></h1>
-  <h3>Fullstack/Go Engineer • VK Education Team Lead 2025 • Yandex Intern • BMSTU 2023</h3>
+  <h3>Middle K8s Engineer @ SberInfra • VK Education Team Lead 2025 • ex Yandex Go SWE • BMSTU 2023</h3>
 
   <p>
     <a href="https://t.me/StephenMarkman">
