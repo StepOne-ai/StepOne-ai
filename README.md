@@ -9,7 +9,7 @@
     alt="Go Banner"
   />
 
-  <h1>👋 Привет, я <strong>Stephen</strong></h1>
+  <h1><strong>Stephen K</strong></h1>
   <h3>Middle K8s Engineer @ SberInfra • VK Education Team Lead 2025 • ex Yandex Go SWE • BMSTU 2023</h3>
 
   <p>
